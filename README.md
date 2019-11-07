@@ -39,6 +39,7 @@
 ## [Лабораторная работа №4](https://github.com/kuzznya/Algos1/blob/master/Lab4/problems4.pdf)
 
 * [A. Стек](https://github.com/kuzznya/Algos1/blob/master/Lab4/A.cpp)
+* [B. Очередь](https://github.com/kuzznya/Algos1/blob/master/Lab4/B.cpp)
 
 ## Общее
 Полезные программы (либо ссылки на конкретные лабы, либо код, не относящийся к конкретной задаче)
