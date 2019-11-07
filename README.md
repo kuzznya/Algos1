@@ -40,6 +40,10 @@
 
 (+-)** Memory leak. Неоправданное использование указателей.
 
+## [Лабораторная работа №3](https://github.com/kuzznya/Algos1/blob/master/Lab4/problems4.pdf)
+
+* [A. Стек](https://github.com/kuzznya/Algos1/blob/master/Lab4/A.cpp)
+
 ## Общее
 Полезные программы (либо ссылки на конкретные лабы, либо код, не относящийся к конкретной задаче)
 Сортировки:
