@@ -36,8 +36,6 @@
 
 (+-)* Решение неоптимально - можно считать высоты не всех точек, а только до первой возрастающей.
 
-(+-)** Memory leak. Неоправданное использование указателей.
-
 ## [Лабораторная работа №4](https://github.com/kuzznya/Algos1/blob/master/Lab4/problems4.pdf)
 
 * [A. Стек](https://github.com/kuzznya/Algos1/blob/master/Lab4/A.cpp)
