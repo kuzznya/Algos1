@@ -43,7 +43,7 @@
 ## Общее
 Полезные программы (либо ссылки на конкретные лабы, либо код, не относящийся к конкретной задаче)
 Сортировки:
-* [Merge Sort (?)](https://github.com/kuzznya/Algos1/blob/master/common/MergeSort.cpp)
+* [Merge Sort (-)](https://github.com/kuzznya/Algos1/blob/master/common/MergeSort.cpp)
 * [Quick Sort](https://github.com/kuzznya/Algos1/blob/master/Lab2/A.cpp)
 * [Heap Sort](https://github.com/kuzznya/Algos1/blob/master/Lab3/D.cpp)
 * [Radix Sort](https://github.com/kuzznya/Algos1/blob/master/Lab3/E.cpp)
