@@ -41,6 +41,7 @@
 * [A. Стек](https://github.com/kuzznya/Algos1/blob/master/Lab4/A.cpp)
 * [B. Очередь](https://github.com/kuzznya/Algos1/blob/master/Lab4/B.cpp)
 * [C. Правильная скобочная последовательность](https://github.com/kuzznya/Algos1/blob/master/Lab4/C.cpp)
+* [C. Постфиксная запись](https://github.com/kuzznya/Algos1/blob/master/Lab4/D.cpp)
 
 ## Общее
 Полезные программы (либо ссылки на конкретные лабы, либо код, не относящийся к конкретной задаче)
