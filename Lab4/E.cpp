@@ -71,8 +71,8 @@ public:
 };
 
 int main() {
-    ifstream inputf("priorityqueue.in");
-    ofstream outputf("priorityqueue.out");
+    ifstream inputf("IOfiles/priorityqueue.in");
+    ofstream outputf("IOfiles/priorityqueue.out");
 
     PriorityQueue pq;
 

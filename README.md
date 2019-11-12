@@ -42,6 +42,7 @@
 * [B. Очередь](https://github.com/kuzznya/Algos1/blob/master/Lab4/B.cpp)
 * [C. Правильная скобочная последовательность](https://github.com/kuzznya/Algos1/blob/master/Lab4/C.cpp)
 * [D. Постфиксная запись](https://github.com/kuzznya/Algos1/blob/master/Lab4/D.cpp)
+* [E. Приоритетная очередь](https://github.com/kuzznya/Algos1/blob/master/Lab4/E.cpp)
 
 ## Общее
 Полезные программы (либо ссылки на конкретные лабы, либо код, не относящийся к конкретной задаче)
