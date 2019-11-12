@@ -35,7 +35,7 @@
 * [B. Гирлянда (+-)*](https://github.com/kuzznya/Algos1/blob/master/Lab3/B.cpp)
 * [C. Пирамида ли?](https://github.com/kuzznya/Algos1/blob/master/Lab3/C.cpp)
 * [D. Пирамидальная сортировка](https://github.com/kuzznya/Algos1/blob/master/Lab3/D.cpp)
-* [E. Цифровая сортировка (+-)**](https://github.com/kuzznya/Algos1/blob/master/Lab3/E.cpp)
+* [E. Цифровая сортировка](https://github.com/kuzznya/Algos1/blob/master/Lab3/E.cpp)
 
 (+-)* Решение неоптимально - можно считать высоты не всех точек, а только до первой возрастающей.
 
