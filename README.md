@@ -49,8 +49,8 @@
 
 ## [Лабораторная работа №5](https://github.com/kuzznya/Algos1/blob/master/Lab5/problems5.pdf)
 
-* [A. Сет](https://github.com/kuzznya/Algos1/blob/master/Lab5/A.cpp)
-
+* [A. Set](https://github.com/kuzznya/Algos1/blob/master/Lab5/A.cpp)
+* [B. Map](https://github.com/kuzznya/Algos1/blob/master/Lab5/B.cpp)
 
 ## Общее
 Полезные программы (либо ссылки на конкретные лабы, либо код, не относящийся к конкретной задаче)
