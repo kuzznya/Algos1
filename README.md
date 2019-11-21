@@ -47,6 +47,11 @@
 * [D. Постфиксная запись](https://github.com/kuzznya/Algos1/blob/master/Lab4/D.cpp)
 * [E. Приоритетная очередь](https://github.com/kuzznya/Algos1/blob/master/Lab4/E.cpp)
 
+## [Лабораторная работа №5](https://github.com/kuzznya/Algos1/blob/master/Lab5/problems5.pdf)
+
+* [A. Сет](https://github.com/kuzznya/Algos1/blob/master/Lab5/A.cpp)
+
+
 ## Общее
 Полезные программы (либо ссылки на конкретные лабы, либо код, не относящийся к конкретной задаче)
 Сортировки:
