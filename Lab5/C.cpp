@@ -144,8 +144,8 @@ public:
 
 int main() {
     LinkedMap lmap(100003);
-    ifstream inputf("linkedmap.in");
-    ofstream outputf("linkedmap.out");
+    ifstream inputf("IOfiles/linkedmap.in");
+    ofstream outputf("IOfiles/linkedmap.out");
     string command, x, y;
     while (!inputf.eof()) {
         command = "";
