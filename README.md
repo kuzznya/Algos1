@@ -52,6 +52,7 @@
 * [A. Set](https://github.com/kuzznya/Algos1/blob/master/Lab5/A.cpp)
 * [B. Map](https://github.com/kuzznya/Algos1/blob/master/Lab5/B.cpp)
 * [C. LinkedMap](https://github.com/kuzznya/Algos1/blob/master/Lab5/C.cpp)
+* [C. MultiMap](https://github.com/kuzznya/Algos1/blob/master/Lab5/D.cpp)
 
 ## Общее
 Полезные программы (либо ссылки на конкретные лабы, либо код, не относящийся к конкретной задаче)
