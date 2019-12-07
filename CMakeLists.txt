@@ -3,4 +3,4 @@ project(Algos)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Algos Lab5/D.cpp)
+add_executable(Algos Lab6/A.cpp)
