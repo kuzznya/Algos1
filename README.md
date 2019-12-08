@@ -12,6 +12,8 @@
 Пометка (-) означает, что задача еще не сдана.
 Пометка (?) означает, что я не уверен в алгоритме.
 
+#1ый семестр:
+
 ## [Лабораторная работа №1](https://github.com/kuzznya/Algos1/blob/master/Sem1/Lab1/problems1.pdf)
 
 * [C. Черепашка](https://github.com/kuzznya/Algos1/blob/master/Sem1/Lab1/C.cpp)
