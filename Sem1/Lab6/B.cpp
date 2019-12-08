@@ -11,9 +11,9 @@ struct Node {
 };
 
 bool checkTree(vector<Node>& nodes, int nodeNum, int lowerLimit, int upperLimit) {
-    if (nodes[nodeNum].leftNum != -1 && nodes[nodeNum].key < nodes[nodes[nodeNum].leftNum].key)
+    if (nodes[nodeNum].leftNum != -1 && nodes[nodeNum].key <= nodes[nodes[nodeNum].leftNum].key)
         return false;
-    if (nodes[nodeNum].rightNum != -1 && nodes[nodeNum].key > nodes[nodes[nodeNum].rightNum].key)
+    if (nodes[nodeNum].rightNum != -1 && nodes[nodeNum].key >= nodes[nodes[nodeNum].rightNum].key)
         return false;
     if (nodes[nodeNum].key <= lowerLimit || nodes[nodeNum].key >= upperLimit)
         return false;
@@ -25,8 +25,8 @@ bool checkTree(vector<Node>& nodes, int nodeNum, int lowerLimit, int upperLimit)
 }
 
 int main() {
-    ifstream inputf("IOfiles/check.in");
-    ofstream outputf("IOfiles/check.out");
+    ifstream inputf("check.in");
+    ofstream outputf("check.out");
     int n = 0;
     inputf >> n;
     vector<Node> nodes(n);
