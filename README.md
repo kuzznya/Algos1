@@ -13,10 +13,7 @@
 
 ## [Лабораторная работа №1](https://github.com/kuzznya/Algos1/blob/master/Lab1/problems1.pdf)
 
-* [A. a + b (Python)](https://github.com/kuzznya/Algos1/blob/master/Lab1/A.py)
-* [B. a + b ^ 2 (Python)](https://github.com/kuzznya/Algos1/blob/master/Lab1/B.py)
 * [C. Черепашка](https://github.com/kuzznya/Algos1/blob/master/Lab1/C.cpp)
-* [D. Простая сортировка](https://github.com/kuzznya/Algos1/blob/master/Lab1/D.py)
 * [E. Знакомство с жителями Сортленда](https://github.com/kuzznya/Algos1/blob/master/Lab1/E.cpp)
 
 ## [Лабораторная работа №2](https://github.com/kuzznya/Algos1/blob/master/Lab2/problems2.pdf)
@@ -53,3 +50,7 @@
 * [B. Map](https://github.com/kuzznya/Algos1/blob/master/Lab5/B.cpp)
 * [C. LinkedMap](https://github.com/kuzznya/Algos1/blob/master/Lab5/C.cpp)
 * [D. MultiMap](https://github.com/kuzznya/Algos1/blob/master/Lab5/D.cpp)
+
+## [Лабораторная работа №6](https://github.com/kuzznya/Algos1/blob/master/Lab6/problems6.pdf)
+
+*[A. Высота дерева](https://github.com/kuzznya/Algos1/blob/master/Lab6/A.cpp)
