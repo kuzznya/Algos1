@@ -54,4 +54,4 @@
 
 ## [Лабораторная работа №6](https://github.com/kuzznya/Algos1/blob/master/Lab6/problems6.pdf)
 
-*[A. Высота дерева](https://github.com/kuzznya/Algos1/blob/master/Lab6/A.cpp)
+* [A. Высота дерева](https://github.com/kuzznya/Algos1/blob/master/Lab6/A.cpp)
