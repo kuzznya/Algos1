@@ -58,3 +58,4 @@
 
 * [A. Высота дерева](https://github.com/kuzznya/Algos1/blob/master/Sem1/Lab6/A.cpp)
 * [B. Проверка корректности](https://github.com/kuzznya/Algos1/blob/master/Sem1/Lab6/B.cpp)
+* [C. Простое двочиное дерево поиска](https://github.com/kuzznya/Algos1/blob/master/Sem1/Lab6/C.cpp)
