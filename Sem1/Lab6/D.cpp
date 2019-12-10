@@ -30,7 +30,7 @@ private:
 
 public:
     QuackVM() {
-        registers.resize(26);
+        registers.resize(26, 0);
     }
 
     QuackVM(vector<string> program) : QuackVM() {
@@ -86,8 +86,7 @@ public:
     }
 
     void getRegister(char reg) {
-        uint16_t x = registers[reg - 'a'];
-        mainQueue.push(x);
+        mainQueue.push(registers[reg - 'a']);
     }
 
     void print(ostream& output) {
@@ -102,18 +101,11 @@ public:
 
     void printChar(ostream& output) {
         output << (char) (mainQueue.front() % 256);
+        mainQueue.pop();
     }
 
     void printRegisterChar(ostream& output, char reg) {
         output << (char) (registers[reg - 'a'] % 256);
-    }
-
-    void setNewLabel(string label) {
-        labels.emplace(label, currentPos);
-    }
-
-    void setNewLabel(string label, int pos) {
-        labels.emplace(label, pos);
     }
 
     void updateLabel(string label) {
@@ -190,7 +182,7 @@ public:
                 case ':': {
                     string label = command;
                     label.erase(0, 1);
-                    this->updateLabel(command);
+                    this->updateLabel(label);
                     break;
                 }
                 case 'J': {
@@ -229,7 +221,7 @@ public:
                         this->put(stoi(command));
                     }
                     else {
-                        output << "Parsing error at line: \"" << command << "\" " << endl;
+                        //output << "Parsing error at line: \"" << command << "\" " << endl;
                     }
                 }
             }
@@ -245,8 +237,8 @@ public:
 };
 
 int main() {
-    ifstream inputf("quack.in");
-    ofstream outputf("quack.out");
+    ifstream inputf("IOfiles/quack.in");
+    ofstream outputf("IOfiles/quack.out");
     QuackVM qvm;
     vector<string> program;
     while (!inputf.eof()) {
