@@ -36,7 +36,7 @@
 * [E. Гамильтонов путь](./Sem2/Lab9/E.cpp)
 * [F. Игра](./Sem2/Lab9/F.cpp)
 
-## [Лабораторная работа №10](./Sem2/Lab10/problems10.pdf)
+## [Лабораторная работа №10](./Sem2/Lab10/problems10.pdf) (passed)
 
 * [A. Степени вершин](./Sem2/Lab10/A.cpp)
 * [B. Остовное дерево](./Sem2/Lab10/B.cpp)
